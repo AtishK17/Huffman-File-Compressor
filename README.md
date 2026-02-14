@@ -122,7 +122,3 @@ Atish Kundu
 B.Tech Computer Science  
 
 ---
-
-## 📄 License
-
-MIT License
