@@ -116,7 +116,7 @@ Results depend on:
 
 ---
 
-## 👨‍💻 Author
+## 📌 Author
 
-Atish Kundu
+**Atish Kundu**
 ---
