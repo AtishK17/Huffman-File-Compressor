@@ -88,7 +88,7 @@ If no differences are shown, decompression is successful.
 ## 📊 Example Compression Ratio
 
 For typical English text files, compression ratio ranges between:
-- 30% to 50% reduction
+- < 50% reduction
 
 Results depend on:
 - File size
@@ -117,6 +117,5 @@ Results depend on:
 ---
 
 ## 📌 Author
-
-**Atish Kundu**
+Atish Kundu
 ---
