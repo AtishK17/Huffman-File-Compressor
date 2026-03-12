@@ -118,7 +118,5 @@ Results depend on:
 
 ## 👨‍💻 Author
 
-Atish Kundu  
-B.Tech Computer Science  
-
+Atish Kundu
 ---
