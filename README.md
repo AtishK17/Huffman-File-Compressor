@@ -43,7 +43,7 @@ During decompression:
 
 ---
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 ### Windows (MinGW)
 
