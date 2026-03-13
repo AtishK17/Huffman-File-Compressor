@@ -10,7 +10,7 @@ This project performs real lossless compression by:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Lossless compression
 - Binary-safe (works with text and binary files)
@@ -22,7 +22,7 @@ This project performs real lossless compression by:
 
 ---
 
-## 📦 How It Works
+## How It Works
 
 1. Reads file in binary mode
 2. Builds frequency table
@@ -59,7 +59,7 @@ g++ main.cpp huffman.cpp -o huffman
 
 ---
 
-## ▶ Usage
+## Usage
 
 ### Compress
 
@@ -75,7 +75,7 @@ huffman.exe decode compressed.huff restored.txt
 
 ---
 
-## 🧪 Verify Correctness (Windows)
+## Verify Correctness (Windows)
 
 ```
 fc input.txt restored.txt
@@ -85,7 +85,7 @@ If no differences are shown, decompression is successful.
 
 ---
 
-## 📊 Example Compression Ratio
+## Example Compression Ratio
 
 For typical English text files, compression ratio ranges between:
 - < 50% reduction
@@ -97,7 +97,7 @@ Results depend on:
 
 ---
 
-## ⚠ Limitations
+## Limitations
 
 - Does not implement canonical Huffman coding
 - Metadata size may impact very small files
@@ -105,7 +105,7 @@ Results depend on:
 
 ---
 
-## 📚 Concepts Used
+## Concepts Used
 
 - Greedy algorithms
 - Min-heap (priority queue)
@@ -116,6 +116,6 @@ Results depend on:
 
 ---
 
-## 📌 Author
+## Author
 Atish Kundu
 ---
